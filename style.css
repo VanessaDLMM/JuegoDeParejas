@@ -1,0 +1,62 @@
+html{
+    background-color: antiquewhite;
+    text-align: center;
+}
+p{
+    color: black;
+    font-style: italic;
+    text-align: center;
+}
+button{
+    text-align: center;
+    background-color: chocolate;
+}
+
+#tablero{
+
+    margin-top: 50px;
+    margin: 0 auto;
+    
+    
+    
+}
+
+
+#tablero img{
+    margin-top: 30px;
+    width: 250px;
+    height: 290px;
+     
+
+}
+
+#tablero img.agua{
+    content: url("/Users/vanessadelamorenamartin/Desktop/Web/Memory2/agua.jpg");
+    border-color: black;
+    border-radius: 10px;
+}
+#tablero img.astronomia{
+    content: url("/Users/vanessadelamorenamartin/Desktop/Web/Memory2/astronomia.jpg");
+    border-color: black;
+    border-radius: 10px;
+}
+#tablero img.estrella{
+    content: url("/Users/vanessadelamorenamartin/Desktop/Web/Memory2/estrella.jpg");
+    border-color: black;
+    border-radius: 10px;
+}
+#tablero img.fantasia{
+    content: url("/Users/vanessadelamorenamartin/Desktop/Web/Memory2/fantasia.jpg");
+    border-color: black;
+    border-radius: 10px;
+}
+#tablero img.playa{
+    content: url("/Users/vanessadelamorenamartin/Desktop/Web/Memory2/playa.jpg");
+    border-color: black;
+    border-radius: 10px;
+}
+#tablero img.carta{
+    content: url("carta.png");
+    border-color: black;
+    border-radius: 10px;
+}
